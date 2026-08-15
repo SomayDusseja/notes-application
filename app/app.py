@@ -1,4 +1,5 @@
 """
+THIS IS NEW TEXT!
 notes-api v0.6.0 — L12 rollout target (only __version__ differs from 0.5.0).
 
 What changed from v0.4.0 (the student's Act B diff):
